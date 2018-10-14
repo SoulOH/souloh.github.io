@@ -7,6 +7,7 @@
     min-width: 1000px;
     z-index: -10;
     zoom: 1;
+    background-image: url(./img/coming-soon.jpg);
     background-color: #fff;
     background-repeat: no-repeat;
     background-size: cover;
