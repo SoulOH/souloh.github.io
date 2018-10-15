@@ -188,6 +188,16 @@ li.first {
 }
 
 
+.s1_img{
+    width: 70%;
+    margin: 0 auto;
+    height: 75%;
+    background-image: url(../img/s1_img1.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center 65%;
+}
+
 .s1_img2 {
     height: 100%;
     width: 40%;
