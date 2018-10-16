@@ -322,19 +322,21 @@ li.first {
 .s3_i1 > img {
     position: relative;
     width: 40%;
-    top: 40%;
 }
 
 .s3_i2 {
     width: 80%;
-    height: 55%;
-    margin: 0 auto;
+    height: 30%;
+    margin: 100px auto;
     text-align: center;
 }
 
 .s3_i2 > img {
     max-height: 100%;
-    width: 100%;
+}
+
+.s4_i1,.s4_i2 {
+    text-align: center;
 }
 
 .s5_bg {
@@ -345,15 +347,16 @@ li.first {
 }
 
 .s5_i1 {
+    float: left;
     height: 50%;
     position: relative;
     top: 25%;
 }
 
 .s5_i2 {
-    height: 10%;
+    float: right;
+    height: 50%;
     position: relative;
-    top: 20%;
 }
 
 .s5_i3 {
@@ -439,9 +442,9 @@ li.first {
 }
 
 .s6_d1_p {
-    font-size: 2.5vh;
+    font-size: 5vh;
     height: 7vh;
-    line-height: 7vh;
+    line-height: 15vh;
     color: white;
 }
 
